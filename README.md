@@ -16,7 +16,7 @@
 
 ### Step 1: Download Dataset 
 
-### Step 2: Ooen goggle collab notebook
+### Step 2: Open goggle collab notebook
 
 
 ### Step 3: Configure Settings
