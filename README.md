@@ -4,7 +4,6 @@
 ## 📋 Assignment Details
 - **Course:** CS452 Deep Learning
 - **Institution:** NUCES FAST, Islamabad
-- **Due Date:** November 10, 2025
 - **Assignment:** Legal Clause Similarity using NLP Models
 
 ## 📁 Files Included
